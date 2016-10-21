@@ -1,0 +1,4 @@
+Bugs to Fix:
+UI font graphics - Need a more appealing font for the Distance, and Faith value
+Fix the accumulative distance value for the base room (Done)
+Look into the rock destructible and see if a wall destructible can be done
